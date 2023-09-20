@@ -13,3 +13,7 @@ bissexuais e outros - 3
 ace e nb - 4
 import seaborn as sns
 sns.palplot(sns.color_palette('hls", 6))
+
+https://stackoverflow.com/questions/25451294/best-way-to-display-seaborn-matplotlib-plots-with-a-dark-ipython-notebook-profil
+
+https://medium.com/@neuralnets/data-visualization-with-python-and-seaborn-part-3-69647c19bf2
