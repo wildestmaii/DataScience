@@ -1,0 +1,15 @@
+mortes violentas de pessoas lgbtqia+
+2021 - 316 (226 homicidios, 26 suicidios, 23 latrocinios, 5 outros)
+2020 - 237
+
+- perfis mais violentados
+
+homens gays - 145
+travestis e mulheres trans - 141
+lesbicas - 12
+homens trans e pessoas transmasculinizadas - 8
+
+bissexuais e outros - 3
+ace e nb - 4
+import seaborn as sns
+sns.palplot(sns.color_palette('hls", 6))
