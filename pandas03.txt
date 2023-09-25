@@ -17,3 +17,7 @@ sns.palplot(sns.color_palette('hls", 6))
 https://stackoverflow.com/questions/25451294/best-way-to-display-seaborn-matplotlib-plots-with-a-dark-ipython-notebook-profil
 
 https://medium.com/@neuralnets/data-visualization-with-python-and-seaborn-part-3-69647c19bf2
+
+> documentação matplotlib
+    https://matplotlib.org/stable/index.html
+    https://dontpad.com/
