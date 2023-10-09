@@ -1,0 +1,10 @@
+https://scikit-learn.org/stable/install.html
+
+https://scikit-learn.org/stable/install.html
+
+https://pypi.org/project/linearsvc/
+
+https://cursos.alura.com.br/forum/topico-dificuldade-com-o-sklearn-ao-executar-o-codigo-no-vscode-297527
+
+https://colab.research.google.com/drive/1BYP_2d3cSTFaEcboCJeIf7_kCv7zMJ4V?usp=sharing#scrollTo=VCfVX-5QoGrO
+
